@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vvyas1-FoodBook</string>
+    <string name="location">Location</string>
+    <string-array name="location_menu">
+        <item>Pantry</item>
+        <item>Freezer</item>
+        <item>Fridge</item>
+    </string-array>
+</resources>
